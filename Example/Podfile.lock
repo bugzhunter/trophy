@@ -1,0 +1,14 @@
+PODS:
+  - Trophy (0.1.0)
+
+DEPENDENCIES:
+  - Trophy (from `../`)
+
+EXTERNAL SOURCES:
+  Trophy:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Trophy: 01fd5a48f87476d6fec99fe83386dde34e8016d0
+
+COCOAPODS: 0.39.0

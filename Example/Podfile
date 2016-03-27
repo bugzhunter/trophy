@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'Trophy_Example', :exclusive => true do
+  pod 'Trophy', :path => '../'
+end
+
+target 'Trophy_Tests', :exclusive => true do
+  pod 'Trophy', :path => '../'
+
+  
+end
